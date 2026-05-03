@@ -1,7 +1,6 @@
 ---
 title: Butterfly
-description: A description of this category
-image:
+description: The Forth Love Novel "Butterfly" by Chi Jian
 
 # Badge style
 style:
