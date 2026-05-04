@@ -1,6 +1,6 @@
 ---
 title: Function
-description: A description of this category
+description: These posts have some usage
 
 # Badge style
 style:
