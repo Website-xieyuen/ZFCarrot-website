@@ -1,7 +1,7 @@
 ---
 title: "「契约之蝶」 No.2"
 description: 第一次和姐姐睡觉😳😳😳
-slug: btf-no-0-1
+slug: btf-no-2
 date: 2026-05-05
 image:
 math: true
